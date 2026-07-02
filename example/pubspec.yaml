@@ -1,5 +1,5 @@
-name: date_x_example
-description: Flutter example for the date_x package.
+name: format_date_x_example
+description: Flutter example for the format_date_x package.
 publish_to: 'none'
 
 environment:
