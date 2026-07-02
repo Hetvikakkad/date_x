@@ -1,0 +1,18 @@
+name: date_x
+description: A flexible date formatting and conversion package with optional BLoC support.
+version: 0.2.0
+homepage: https://github.com/Hetvikakkad/date_x
+repository: https://github.com/Hetvikakkad/date_x
+issue_tracker: https://github.com/Hetvikakkad/date_x/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  intl: '>=0.18.0 <0.21.0'
+  bloc: ^8.1.2
+
+dev_dependencies:
+  test: ^1.24.0
+  bloc_test: ^9.1.4
+  lints: ^3.0.0

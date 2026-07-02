@@ -1,0 +1,9 @@
+/// Optional BLoC layer for reactive date operations.
+///
+/// Import only when you need [DateXBloc]. Core date conversion does not
+/// require this file — use `package:date_x/date_x.dart` instead.
+library date_x_bloc;
+
+export 'src/bloc/date_x_bloc.dart';
+export 'src/bloc/date_x_event.dart';
+export 'src/bloc/date_x_state.dart';
