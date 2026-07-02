@@ -1,7 +1,10 @@
+## 1.0.2
+
+* Active latest release with renamed entry files (`format_date_x.dart`, `format_date_x_bloc.dart`).
+
 ## 1.0.1
 
-* Renamed entry files to `format_date_x.dart` and `format_date_x_bloc.dart`.
-* Updated GitHub repository links to `format_date_x`.
+* Retracted — use 1.0.2 instead.
 
 ## 1.0.0
 
